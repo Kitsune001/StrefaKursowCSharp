@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2 Komentarze", "A2 Komenta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1 Zmienne", "B1 Zmienne\B1 Zmienne.csproj", "{A9588075-E60C-4969-BE61-59C37669E770}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2 Typy zmiennych", "B2 Typy zmiennych\B2 Typy zmiennych.csproj", "{2DA92A76-E720-40F0-960E-565F2FD4130E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A9588075-E60C-4969-BE61-59C37669E770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9588075-E60C-4969-BE61-59C37669E770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9588075-E60C-4969-BE61-59C37669E770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA92A76-E720-40F0-960E-565F2FD4130E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA92A76-E720-40F0-960E-565F2FD4130E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA92A76-E720-40F0-960E-565F2FD4130E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA92A76-E720-40F0-960E-565F2FD4130E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
