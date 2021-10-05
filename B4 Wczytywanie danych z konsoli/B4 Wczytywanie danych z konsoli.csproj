@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>B4_Wczytywanie_danych_z_konsoli</RootNamespace>
+    </PropertyGroup>
+
+</Project>

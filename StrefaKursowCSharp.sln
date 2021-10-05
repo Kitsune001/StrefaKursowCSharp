@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2 Typy zmiennych", "B2 Typ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3 Operatory arytmetyczne", "B3 Operatory arytmetyczne\B3 Operatory arytmetyczne.csproj", "{665E44E0-0F96-4E6A-9716-2C863D8F5F75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4 Wczytywanie danych z konsoli", "B4 Wczytywanie danych z konsoli\B4 Wczytywanie danych z konsoli.csproj", "{F543EACF-514F-420B-AB87-725E0D68ED92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{665E44E0-0F96-4E6A-9716-2C863D8F5F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{665E44E0-0F96-4E6A-9716-2C863D8F5F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{665E44E0-0F96-4E6A-9716-2C863D8F5F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F543EACF-514F-420B-AB87-725E0D68ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F543EACF-514F-420B-AB87-725E0D68ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F543EACF-514F-420B-AB87-725E0D68ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F543EACF-514F-420B-AB87-725E0D68ED92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
