@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2 Tablice wielowymiarowe",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1 Instrukcja if", "D1 Instrukcja if\D1 Instrukcja if.csproj", "{F05071D7-B529-4F01-B85B-B760E3D2909F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2 Instrukcja switch", "D2 Instrukcja switch\D2 Instrukcja switch.csproj", "{D6604D40-8C04-4611-898F-4B79EF98579D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{F05071D7-B529-4F01-B85B-B760E3D2909F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F05071D7-B529-4F01-B85B-B760E3D2909F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F05071D7-B529-4F01-B85B-B760E3D2909F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6604D40-8C04-4611-898F-4B79EF98579D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6604D40-8C04-4611-898F-4B79EF98579D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6604D40-8C04-4611-898F-4B79EF98579D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6604D40-8C04-4611-898F-4B79EF98579D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
