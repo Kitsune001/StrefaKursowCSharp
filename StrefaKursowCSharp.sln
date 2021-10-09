@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3 Wyrażenia warunkowe", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4 Operatory relacyjne", "D4 Operatory relacyjne\D4 Operatory relacyjne.csproj", "{A4EF3798-88EC-4FC9-B7A3-912BEE57A0EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D5 Operatory logiczne", "D5 Operatory logiczne\D5 Operatory logiczne.csproj", "{89034B16-3E05-4239-930C-9CB9BCD2FE4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{A4EF3798-88EC-4FC9-B7A3-912BEE57A0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EF3798-88EC-4FC9-B7A3-912BEE57A0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EF3798-88EC-4FC9-B7A3-912BEE57A0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89034B16-3E05-4239-930C-9CB9BCD2FE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89034B16-3E05-4239-930C-9CB9BCD2FE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89034B16-3E05-4239-930C-9CB9BCD2FE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89034B16-3E05-4239-930C-9CB9BCD2FE4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
