@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2 Petla for each", "E2 Pet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E3 Petle while i do while", "E3 Petle while i do while\E3 Petle while i do while.csproj", "{B96F2F07-C8E4-40B6-ADF5-DA46767DE252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4 Polecenia break i continue", "E4 Polecenia break i continue\E4 Polecenia break i continue.csproj", "{35543015-616B-48C4-9CD4-6A4E81379C1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{B96F2F07-C8E4-40B6-ADF5-DA46767DE252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96F2F07-C8E4-40B6-ADF5-DA46767DE252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96F2F07-C8E4-40B6-ADF5-DA46767DE252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35543015-616B-48C4-9CD4-6A4E81379C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35543015-616B-48C4-9CD4-6A4E81379C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35543015-616B-48C4-9CD4-6A4E81379C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35543015-616B-48C4-9CD4-6A4E81379C1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
